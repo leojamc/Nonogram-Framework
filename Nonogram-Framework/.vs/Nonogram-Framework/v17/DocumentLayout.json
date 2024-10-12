@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leomc\\Documents\\GitHub\\Nonogram-Framework\\Nonogram-Framework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D6EDB5A-81D5-45F1-8B9E-224E0764B8B7}|Nonogram-Framework.csproj|c:\\users\\leomc\\documents\\github\\nonogram-framework\\nonogram-framework\\puzzleinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6EDB5A-81D5-45F1-8B9E-224E0764B8B7}|Nonogram-Framework.csproj|solutionrelative:puzzleinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D6EDB5A-81D5-45F1-8B9E-224E0764B8B7}|Nonogram-Framework.csproj|c:\\users\\leomc\\documents\\github\\nonogram-framework\\nonogram-framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6EDB5A-81D5-45F1-8B9E-224E0764B8B7}|Nonogram-Framework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PuzzleInstance.cs",
+              "DocumentMoniker": "C:\\Users\\leomc\\Documents\\GitHub\\Nonogram-Framework\\Nonogram-Framework\\PuzzleInstance.cs",
+              "RelativeDocumentMoniker": "PuzzleInstance.cs",
+              "ToolTip": "C:\\Users\\leomc\\Documents\\GitHub\\Nonogram-Framework\\Nonogram-Framework\\PuzzleInstance.cs",
+              "RelativeToolTip": "PuzzleInstance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:22:21.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leomc\\Documents\\GitHub\\Nonogram-Framework\\Nonogram-Framework\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\leomc\\Documents\\GitHub\\Nonogram-Framework\\Nonogram-Framework\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T17:04:50.485Z",
               "EditorCaption": ""

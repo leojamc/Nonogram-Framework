@@ -10,6 +10,7 @@ namespace Nonogram_Framework
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
